@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jayeshmul
 - 👀 I’m interested in creating projects and programs in python
-- 🌱 I’m currently learning PHP and C++
+- 🌱 I’m currently learning PHP and SQL.
+- I am currently working on websites frames using HTML & CSS.
 - 
 - 📫 How to reach me ...linkedin
 
